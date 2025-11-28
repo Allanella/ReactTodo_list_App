@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import TodoWrapper from "./todoWrapper";
+import TodoWrapper from "./TodoWrapper";
 import styled from "styled-components";
 
 const MyStyledDiv = styled.div`
